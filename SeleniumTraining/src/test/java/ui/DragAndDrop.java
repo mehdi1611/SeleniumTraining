@@ -21,8 +21,8 @@ public class DragAndDrop {
 		action.dragAndDrop(drag, drop);
 		action.perform();
 		Thread.sleep(2000);
-		action.dragAndDropBy(drag, 0, 0);
-		action.perform();
+//		action.dragAndDropBy(drag, 20, 40);
+//		action.perform();
 	}
 
 }
