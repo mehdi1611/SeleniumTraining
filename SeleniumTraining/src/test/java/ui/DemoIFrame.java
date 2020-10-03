@@ -2,9 +2,6 @@ package ui;
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.chrome.ChromeDriver;
-import org.openqa.selenium.edge.EdgeDriver;
-import org.openqa.selenium.firefox.FirefoxDriver;
-
 import io.github.bonigarcia.wdm.WebDriverManager;
 
 public class DemoIFrame {
